@@ -12,7 +12,7 @@ assignees:
 
 status-website:
   cname: status.bink.com
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
+  logoUrl: https://logos.bink.com/img/logos/checkmark-primary.png
   name: Upptime
   introTitle: "Bink Status"
   themeUrl: https://status.bink.com/catppuccin.css

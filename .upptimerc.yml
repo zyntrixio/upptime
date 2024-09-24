@@ -1,6 +1,5 @@
-# Change these first
-owner: binkhq # Your GitHub organization or username, where this repository lives
-repo: upptime # The name of this repository
+owner: binkhq
+repo: upptime
 
 sites:
   - name: Website
@@ -8,12 +7,15 @@ sites:
   - name: API
     url: https://api.bink.com/ping
 
+assignees:
+  - cpressland
+
 status-website:
   cname: status.bink.com
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Upptime
   introTitle: "Bink Status"
-  introMessage: "Status of all Bink live services"
+  themeUrl: https://status.bink.com/catppuccin.css
   navbar:
     - title: Status
       href: /

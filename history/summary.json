@@ -22,7 +22,7 @@
     "url": "https://api.bink.com/ping",
     "icon": "https://icons.duckduckgo.com/ip3/api.bink.com.ico",
     "slug": "api",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -33,6 +33,8 @@
     "timeWeek": 352,
     "timeMonth": 352,
     "timeYear": 352,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-09-29": 0
+    }
   }
 ]

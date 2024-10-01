@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 397,
-    "timeDay": 458,
-    "timeWeek": 397,
-    "timeMonth": 397,
-    "timeYear": 397,
+    "time": 405,
+    "timeDay": 493,
+    "timeWeek": 405,
+    "timeMonth": 405,
+    "timeYear": 405,
     "dailyMinutesDown": {}
   },
   {
@@ -23,18 +23,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/api.bink.com.ico",
     "slug": "api",
     "status": "down",
-    "uptime": "94.60%",
-    "uptimeDay": "70.83%",
-    "uptimeWeek": "94.60%",
-    "uptimeMonth": "94.60%",
-    "uptimeYear": "94.60%",
+    "uptime": "79.82%",
+    "uptimeDay": "0.00%",
+    "uptimeWeek": "79.82%",
+    "uptimeMonth": "79.82%",
+    "uptimeYear": "79.82%",
     "time": 352,
     "timeDay": 0,
     "timeWeek": 352,
     "timeMonth": 352,
     "timeYear": 352,
     "dailyMinutesDown": {
-      "2024-09-30": 21,
+      "2024-10-01": 23,
+      "2024-09-30": 1440,
       "2024-09-29": 399
     }
   }

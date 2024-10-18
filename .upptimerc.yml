@@ -1,21 +1,21 @@
-owner: binkhq
+owner: zyntrixio
 repo: upptime
 
 sites:
   - name: Website
-    url: https://www.bink.com/
+    url: https://www.zyntrix.io/
   - name: API
-    url: https://api.bink.com/ping
+    url: https://api.zyntrix.io/ping
 
 assignees:
   - cpressland
 
 status-website:
-  cname: status.bink.com
+  cname: status.zyntrix.io
   logoUrl: https://logos.bink.com/img/logos/checkmark-primary.png
   name: Upptime
-  introTitle: "Bink Status"
-  themeUrl: https://status.bink.com/catppuccin.css
+  introTitle: "Zyntrix Status"
+  themeUrl: https://status.zyntrix.io/catppuccin.css
   navbar:
     - title: Status
       href: /

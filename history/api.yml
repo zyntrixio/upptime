@@ -1,7 +1,7 @@
 url: https://api.zyntrix.io/ping
-status: down
-code: 404
-responseTime: 278
-lastUpdated: 2024-10-18T12:58:55.050Z
+status: up
+code: 200
+responseTime: 565
+lastUpdated: 2024-10-18T13:04:41.519Z
 startTime: 2024-09-24T14:38:56.350Z
 generator: Upptime <https://github.com/upptime/upptime>

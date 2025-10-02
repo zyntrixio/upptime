@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.86%",
     "time": 409,
-    "timeDay": 246,
-    "timeWeek": 285,
-    "timeMonth": 404,
+    "timeDay": 276,
+    "timeWeek": 288,
+    "timeMonth": 399,
     "timeYear": 409,
     "dailyMinutesDown": {
       "2025-08-20": 17,
@@ -66,7 +66,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/api.zyntrix.io.ico",
     "slug": "api",
     "status": "down",
-    "uptime": "58.73%",
+    "uptime": "58.57%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -77,7 +77,8 @@
     "timeMonth": 0,
     "timeYear": 494,
     "dailyMinutesDown": {
-      "2025-10-01": 26,
+      "2025-10-02": 22,
+      "2025-10-01": 1440,
       "2025-09-30": 1440,
       "2025-09-29": 1440,
       "2025-09-28": 1440,
@@ -228,8 +229,7 @@
       "2024-10-06": 1440,
       "2024-10-05": 1440,
       "2024-10-04": 1440,
-      "2024-10-03": 1440,
-      "2024-10-02": 1440
+      "2024-10-03": 1440
     }
   }
 ]

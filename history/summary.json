@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.zyntrix.io.ico",
     "slug": "website",
     "status": "up",
-    "uptime": "95.68%",
+    "uptime": "95.69%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "92.71%",
     "time": 394,
-    "timeDay": 588,
-    "timeWeek": 405,
-    "timeMonth": 434,
-    "timeYear": 398,
+    "timeDay": 482,
+    "timeWeek": 422,
+    "timeMonth": 442,
+    "timeYear": 400,
     "dailyMinutesDown": {
       "2025-11-15": 706,
       "2025-11-14": 1440,
@@ -75,8 +75,7 @@
       "2025-06-25": 6,
       "2025-06-22": 7,
       "2025-06-18": 21,
-      "2025-06-13": 13,
-      "2025-06-05": 6
+      "2025-06-13": 13
     }
   },
   {
@@ -85,18 +84,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/api.zyntrix.io.ico",
     "slug": "api",
     "status": "down",
-    "uptime": "35.33%",
+    "uptime": "35.27%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
-    "time": 494,
+    "time": 495,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-06-04": 66,
+      "2026-06-05": 58,
+      "2026-06-04": 1440,
       "2026-06-03": 1440,
       "2026-06-02": 1440,
       "2026-06-01": 1440,
@@ -459,8 +459,7 @@
       "2025-06-09": 1440,
       "2025-06-08": 1440,
       "2025-06-07": 1440,
-      "2025-06-06": 1440,
-      "2025-06-05": 1440
+      "2025-06-06": 1440
     }
   }
 ]

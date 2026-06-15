@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "92.72%",
-    "time": 397,
-    "timeDay": 659,
-    "timeWeek": 449,
-    "timeMonth": 421,
-    "timeYear": 399,
+    "time": 398,
+    "timeDay": 129,
+    "timeWeek": 406,
+    "timeMonth": 412,
+    "timeYear": 398,
     "dailyMinutesDown": {
       "2025-11-15": 706,
       "2025-11-14": 1440,
@@ -83,7 +83,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/api.zyntrix.io.ico",
     "slug": "api",
     "status": "down",
-    "uptime": "34.76%",
+    "uptime": "34.71%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -94,7 +94,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-06-14": 62,
+      "2026-06-15": 65,
+      "2026-06-14": 1440,
       "2026-06-13": 1440,
       "2026-06-12": 1440,
       "2026-06-11": 1440,
@@ -457,8 +458,7 @@
       "2025-06-19": 1440,
       "2025-06-18": 1440,
       "2025-06-17": 1440,
-      "2025-06-16": 1440,
-      "2025-06-15": 1440
+      "2025-06-16": 1440
     }
   }
 ]
